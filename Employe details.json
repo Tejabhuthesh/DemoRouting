@@ -1,0 +1,85 @@
+{
+    "Employe details": [{
+        
+        "Employeid":"10",
+        "Name": "Teja",
+        "Date of Birth":"01-04-2001",
+        "Age":"26",
+        "Role": " Fiori role",
+        "Date of Joining":"07-08-2022",
+        "Position":"intern",
+        "CTC": "12,000",
+        "Number": "9550840453",
+        "Alternative Mobile Number":"6281245810",
+        "Email ID":"tejabhutesh@gmail.com",
+        "Address":"NKP,MADAKASIRA,INDIA"
+
+        
+    },
+    {
+        
+        "Employeid":"456",
+        "Name": "Ram",
+        "Date of Birth":"01-04-2001",
+        "Age":"25",
+        "Role": " Fiori role",
+        "Date of Joining":"07-08-2022",
+        "Position":"intern",
+        "CTC": "18,000",
+        "Number": "9550840453",
+        "Alternative Mobile Number":"6281245810",
+        "Email ID":"tejabhutesh@gmail.com",
+        "Address":"NKP,MADAKASIRA,INDIA"
+
+
+    },
+    {
+        
+        "Employeid":"345",
+        "Name": "Srinath",
+        "Date of Birth":"01-04-2001",
+        "Age":"24",
+        "Role": " Fiori role",
+        "Date of Joining":"07-08-2022",
+        "Position":"intern",
+        "CTC": "10,000",
+        "Number": "9550840453",
+        "Alternative Mobile Number":"6281245810",
+        "Email ID":"tejabhutesh@gmail.com",
+        "Address":"NKP,MADAKASIRA,INDIA"
+
+
+    },
+    {
+        
+        "Employeid":"999",
+        "Name": "Sidh",
+        "Date of Birth":"01-04-2001",
+        "Age":"23",
+        "Role": " Fiori role",
+        "Date of Joining":"07-08-2022",
+        "Position":"intern",
+        "CTC": "17,000",
+        "Number": "9550840453",
+        "Alternative Mobile Number":"6281245810",
+        "Email ID":"tejabhutesh@gmail.com",
+        "Address":"NKP,MADAKASIRA,INDIA"
+
+
+    },
+    {
+        
+        "Employeid":"555",
+        "Name": "Bhuthesh",
+        "Date of Birth":"01-04-2001",
+        "Age":"22",
+        "Role": " Fiori role",
+        "Date of Joining":"07-08-2022",
+        "Position":"intern",
+        "CTC": "13,000",
+        "Number": "9550840453",
+        "Alternative Mobile Number":"6281245810",
+        "Email ID":"tejabhutesh@gmail.com",
+        "Address":"NKP,MADAKASIRA,INDIA"
+    }]
+}
