@@ -1,0 +1,88 @@
+<mvc:View controllerName="demoroutingid.demorouting.controller.View1"
+ xmlns:mvc="sap.ui.core.mvc" 
+ displayBlock="true" 
+ xmlns="sap.m">
+    <App>
+        <pages>
+            <Page id="page" title="View1">
+                <content>
+                    <Table id="idProductsTable" inset="false" headerText="EMPLOYE DETAILS" visible="true" items="{
+			path: 'Data1>/Employe details',
+			sorter: {
+				path: 'Name'
+			}
+		}">
+                        <columns>
+                            <Column width="auto">
+                                <Button text="Employe id" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Employe Name" />
+                            </Column>
+
+                            <Column>
+                                <Text text=" Date of Birth" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Age" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Role" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Date of Joining" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Position" />
+                            </Column>
+
+                            <Column>
+                                <Text text=" CTC" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Number" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Alternative Mobile Number" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Email ID" />
+                            </Column>
+
+                            <Column>
+                                <Text text="Address" />
+                            </Column>
+                        </columns>
+                        <items>
+                            <ColumnListItem type="Active" id="colss" >
+                                <cells>
+                                    <Button text="{Data1>Employeid}" press="onRowClick" type="Emphasized" id="button" />
+                                    <Text text="{Data1>Name}" />
+                                    <Text text="{Data1>Date of Birth}" />
+                                    <Text text="{Data1>Age}" />
+                                    <Text text="{Data1>Role}" />
+                                    <Text text="{Data1>Date of Joining}" />
+                                    <Text text="{Data1>Position}" />
+                                    <Text text="{Data1>CTC}" />
+                                    <Text text="{Data1>Number}" />
+                                    <Text text="{Data1>Alternative Mobile Number}" />
+                                    <Text text="{Data1>Date of Joining}" />
+                                    <Text text="{Data1>Email ID}" />
+                                    <Text text="{Data1>Address}" />
+                                </cells>
+                            </ColumnListItem>
+                        </items>
+                    </Table>
+                </content>
+            </Page>
+        </pages>
+      </App>
+</mvc:View>
